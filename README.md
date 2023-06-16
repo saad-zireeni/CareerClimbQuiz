@@ -2,7 +2,7 @@
 
 Career Climb Quiz a quiz website that will evaluate candidates' knowledge and skills for a specific position.
 
-## live code via github pages
+## live Demo via github pages
 
 [livecode](https://zarqac2p3g3.github.io/career-climb-quiz/)
 
